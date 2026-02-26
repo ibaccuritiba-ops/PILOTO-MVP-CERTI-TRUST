@@ -1,0 +1,5 @@
+{
+  "name": "CertiTrust B2B - Plataforma de Certificação Digital",
+  "description": "Sistema institucional de certificação digital white-label com validação de identidade e ambiente de prova seguro para ambientes regulados.",
+  "requestFramePermissions": ["camera"]
+}
